@@ -1,5 +1,5 @@
 # Stock-Analysis Project.
-**In our project, we utilized the full set of stock market data from 2017 and 2018**
+**For our project, we analyzed full sets of data from the stock markets for 2017 and 2018. Also during the analysis, we refactored the challenge "Dataset code" that we use for our refactoring process for the analysis of multiple stock markets.**
 ## Results
 **All Stock Year 2017**
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/58860105/131256297-9b032511-6f22-4591-85a8-8b2a54a7715a.png)
