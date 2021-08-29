@@ -11,4 +11,4 @@
 ### Advantages Of Refactoring code
 **Refactoring code reduce complexity of code for better understanding. Also, it's easier to maintain**
 ### Disadvantages Refactoring code
-**Among the disadvantages of refactoring code is the amount of time it takes**
+**Among the disadvantages of refactoring code is the amount of time it takes to complete**
