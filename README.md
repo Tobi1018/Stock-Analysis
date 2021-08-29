@@ -1,4 +1,5 @@
 # Stock-Analysis Project.
+**In our project, we utilized the full set of stock market data from 2017 and 2018**
 ## Results
 **All Stock Year 2017**
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/58860105/131256297-9b032511-6f22-4591-85a8-8b2a54a7715a.png)
