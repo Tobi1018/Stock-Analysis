@@ -9,6 +9,6 @@
 **During the refactoring process, a program is changed in a way that does not change the behavior of the code, but rather improves the codes to be more efficient and readable. Refactoring has both advantages and disadvantages in it.**
 
 ### Advantages Of Refactoring code**
-**Refactoring code reduce complexity of code for better understanding. Also, it's easier to maintain.
+**Refactoring code reduce complexity of code for better understanding. Also, it's easier to maintain.**
 ### Disadvantages Refactoring code**
 **Among the disadvantages of refactoring code is the amount of time it takes**
